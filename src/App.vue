@@ -4,6 +4,7 @@
   <p>test3</p>
   <p>test444</p>
   <p>test5</p>
+  <p>test6</p>
 </template>
 
 <script>
