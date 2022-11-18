@@ -5,6 +5,7 @@
   <p>test444</p>
   <p>test5</p>
   <p>test6</p>
+  <p>test777</p>
 </template>
 
 <script>
