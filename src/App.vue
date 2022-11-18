@@ -1,5 +1,6 @@
 <template>
   <p>test1</p>
+  <p>test2</p>
 </template>
 
 <script>
